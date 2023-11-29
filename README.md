@@ -1,6 +1,8 @@
 # phx_react_sol
 
-Demo showing how to integrate React components into a Phoenix application, including Solana [wallet-adapter](https://github.com/solana-labs/wallet-adapter).
+Demonstration project showing how to integrate React components with Elixir and Phoenix. 
+
+Includes Solana [wallet-adapter](https://github.com/solana-labs/wallet-adapter).
 
 ## Requirements
 
